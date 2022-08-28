@@ -7,7 +7,3 @@ Note: This project is made using Jupyter Notebook and the [Bangalore Dataset](ht
 ## Screenshot:
 
 <img src="./assets/screenshot.png"></img>
-
-## Demo:
-
-<video src="./assets/demo.mp4"></video>
